@@ -39,6 +39,8 @@ namespace Common_Operators
             var res = i--;
 
             System.Console.WriteLine(i);
+
+            System.Console.WriteLine("Muiz");
         }
     }
 }
