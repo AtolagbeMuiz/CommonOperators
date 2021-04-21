@@ -1,0 +1,16 @@
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Common Operators\bin\Debug\net5.0\Common Operators.exe
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Common Operators\bin\Debug\net5.0\Common Operators.deps.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Common Operators\bin\Debug\net5.0\Common Operators.runtimeconfig.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Common Operators\bin\Debug\net5.0\Common Operators.runtimeconfig.dev.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Common Operators\bin\Debug\net5.0\Common Operators.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Common Operators\bin\Debug\net5.0\ref\Common Operators.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Common Operators\bin\Debug\net5.0\Common Operators.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Common Operators\obj\Debug\net5.0\Common Operators.csprojAssemblyReference.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Common Operators\obj\Debug\net5.0\Common Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Common Operators\obj\Debug\net5.0\Common Operators.AssemblyInfoInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Common Operators\obj\Debug\net5.0\Common Operators.AssemblyInfo.cs
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Common Operators\obj\Debug\net5.0\Common Operators.csproj.CoreCompileInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Common Operators\obj\Debug\net5.0\Common Operators.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Common Operators\obj\Debug\net5.0\ref\Common Operators.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Common Operators\obj\Debug\net5.0\Common Operators.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Common Operators\obj\Debug\net5.0\Common Operators.genruntimeconfig.cache
